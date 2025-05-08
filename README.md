@@ -67,7 +67,7 @@ The following analyses and visualizations were performed:
 Visualizations include histograms, count plots, pie charts, and a heatmap showing correlations between numerical variables and subscription likelihood.
 
 ---
-## **Sample Visualisation
+## **Sample Visualisation**
 ![Screenshot 2025-05-08 200254](https://github.com/user-attachments/assets/a6731b69-9375-4ba3-b3d2-a99a20cbedbc)
 
 ![Screenshot 2025-05-08 200307](https://github.com/user-attachments/assets/534ff709-b4de-452b-826d-2ff09e1fb80b)
@@ -77,6 +77,8 @@ Visualizations include histograms, count plots, pie charts, and a heatmap showin
 ![Screenshot 2025-05-08 200224](https://github.com/user-attachments/assets/46613370-d389-4235-ab0e-a3cb914a71e8)
 
 ![Screenshot 2025-05-01 211650](https://github.com/user-attachments/assets/554f0bf4-b4e4-4ebe-a4b5-9e1582551f9b)
+
+![image](https://github.com/user-attachments/assets/fafe2404-8c55-42ce-b554-5aea4ab047a1)
 
 
 ---
