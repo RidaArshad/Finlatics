@@ -67,15 +67,28 @@ The following analyses and visualizations were performed:
 Visualizations include histograms, count plots, pie charts, and a heatmap showing correlations between numerical variables and subscription likelihood.
 
 ---
+## **Sample Visualisation
+![Screenshot 2025-05-08 200254](https://github.com/user-attachments/assets/a6731b69-9375-4ba3-b3d2-a99a20cbedbc)
+
+![Screenshot 2025-05-08 200307](https://github.com/user-attachments/assets/534ff709-b4de-452b-826d-2ff09e1fb80b)
+
+![Screenshot 2025-05-08 200238](https://github.com/user-attachments/assets/494124e8-1915-4df5-bf94-8f28c4977212)
+
+![Screenshot 2025-05-08 200224](https://github.com/user-attachments/assets/46613370-d389-4235-ab0e-a3cb914a71e8)
+
+![Screenshot 2025-05-01 211650](https://github.com/user-attachments/assets/554f0bf4-b4e4-4ebe-a4b5-9e1582551f9b)
+
+
+---
 
 ## **Key Findings**
 
-- Most clients are aged **30–40** and work in **management**, **blue-collar**, or **technician** roles.
-- **Married clients** with **secondary education** form the largest demographic.
-- Clients with **longer call durations** and **past positive responses** are more likely to subscribe.
-- **May** saw the highest number of contacts and conversions.
-- Clients with **higher average balances** show greater likelihood of subscribing.
-- Most clients were **contacted only once**, and long gaps between contacts reduced conversion chances.
+- Most clients are aged ***30–40*** and work in ***management***, ***blue-collar***, or ***technician*** roles.
+- ***Married clients*** with ***secondary education*** form the largest demographic.
+- Clients with ***longer call durations*** and ***past positive responses*** are more likely to subscribe.
+- ***May*** saw the highest number of contacts and conversions.
+- Clients with ***higher average balances*** show greater likelihood of subscribing.
+- Most clients were ***contacted only once***, and long gaps between contacts reduced conversion chances.
 
 ---
 ## How to Run the Project
