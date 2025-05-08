@@ -78,10 +78,12 @@ Visualizations include histograms, count plots, pie charts, and a heatmap showin
 - Most clients were **contacted only once**, and long gaps between contacts reduced conversion chances.
 
 ---
+## How to Run the Project
 
-## **How to Run the Project**
+1. **Clone the Repository:**
 
-1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/banking-campaign-analysis.git
-   cd banking-campaign-analysis
+   git clone https://github.com/RidaArshad/Finlatics.git
+   cd Finlatics
+
+
